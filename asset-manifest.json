@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5facb584.chunk.css",
-    "main.js": "/static/js/main.f13678c0.chunk.js",
-    "main.js.map": "/static/js/main.f13678c0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.057855c3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.057855c3.js.map",
-    "static/js/2.9f301624.chunk.js": "/static/js/2.9f301624.chunk.js",
-    "static/js/2.9f301624.chunk.js.map": "/static/js/2.9f301624.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4374d78e23e56522e981c38d5f1eb2a5.js": "/precache-manifest.4374d78e23e56522e981c38d5f1eb2a5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5facb584.chunk.css.map": "/static/css/main.5facb584.chunk.css.map",
-    "static/js/2.9f301624.chunk.js.LICENSE.txt": "/static/js/2.9f301624.chunk.js.LICENSE.txt"
+    "main.css": "/instagram-caption-line-breaker/static/css/main.5facb584.chunk.css",
+    "main.js": "/instagram-caption-line-breaker/static/js/main.5571bc33.chunk.js",
+    "main.js.map": "/instagram-caption-line-breaker/static/js/main.5571bc33.chunk.js.map",
+    "runtime-main.js": "/instagram-caption-line-breaker/static/js/runtime-main.92021b83.js",
+    "runtime-main.js.map": "/instagram-caption-line-breaker/static/js/runtime-main.92021b83.js.map",
+    "static/js/2.6e791306.chunk.js": "/instagram-caption-line-breaker/static/js/2.6e791306.chunk.js",
+    "static/js/2.6e791306.chunk.js.map": "/instagram-caption-line-breaker/static/js/2.6e791306.chunk.js.map",
+    "index.html": "/instagram-caption-line-breaker/index.html",
+    "precache-manifest.6f489d5aa010cc0ee033b105e814c8f8.js": "/instagram-caption-line-breaker/precache-manifest.6f489d5aa010cc0ee033b105e814c8f8.js",
+    "service-worker.js": "/instagram-caption-line-breaker/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/instagram-caption-line-breaker/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.6e791306.chunk.js.LICENSE.txt": "/instagram-caption-line-breaker/static/js/2.6e791306.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.057855c3.js",
-    "static/js/2.9f301624.chunk.js",
+    "static/js/runtime-main.92021b83.js",
+    "static/js/2.6e791306.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.f13678c0.chunk.js"
+    "static/js/main.5571bc33.chunk.js"
   ]
 }
