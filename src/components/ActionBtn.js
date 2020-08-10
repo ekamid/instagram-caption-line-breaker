@@ -12,7 +12,7 @@ const ActionBtn = ({ covertAndCopy, clearCaption }) => {
           Convert And Copy
         </button>
       </div>
-      <div className="col">
+      <div className="col-4">
         <button
           type="button"
           className="btn btn-danger  float-right"

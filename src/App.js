@@ -1,15 +1,16 @@
 import React from "react";
 import "./App.css";
-import Heading from "./components/Heading";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
 import CaptionInput from "./components/CaptionInput";
-import HowTo from "./components/HowTo";
-
+import HowToUse from "./components/HowToUse";
 const App = () => {
   return (
     <div className="App">
-      <Heading />
+      <Header />
       <CaptionInput />
-      <HowTo />
+      <HowToUse />
+      <Footer />
     </div>
   );
 };
