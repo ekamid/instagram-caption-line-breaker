@@ -48,7 +48,7 @@ const CaptionInput = () => {
   };
 
   return (
-    <div className="container pl-5 pr-5 pb-3 pt-1">
+    <div className="container pb-3 pt-1">
       <ActionBtn covertAndCopy={covertAndCopy} clearCaption={clearCaption} />
       <div className="form-group mt-2">
         <textarea

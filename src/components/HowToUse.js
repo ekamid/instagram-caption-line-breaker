@@ -2,7 +2,7 @@ import React from "react";
 
 const HowToUse = () => {
   return (
-    <div className="container pl-5 pr-5 pb-3">
+    <div className="container pb-3">
       <ul className="list-group">
         <h4>How To USE</h4>
         <li className="list-group-item">Paste or write your text</li>
