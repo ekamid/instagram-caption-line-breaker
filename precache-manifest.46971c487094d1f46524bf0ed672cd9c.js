@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ec0e1b9aff30346ab72f5187a526679",
+    "revision": "b03b3580f8ed69dca790407905c2669d",
     "url": "/instagram-caption-line-breaker/index.html"
   },
   {
-    "revision": "69314cc3643c2a3803ed",
+    "revision": "fa58080beba8a0d9b019",
     "url": "/instagram-caption-line-breaker/static/css/main.54babe45.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/instagram-caption-line-breaker/static/js/2.a7c1554a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "69314cc3643c2a3803ed",
-    "url": "/instagram-caption-line-breaker/static/js/main.226ac671.chunk.js"
+    "revision": "fa58080beba8a0d9b019",
+    "url": "/instagram-caption-line-breaker/static/js/main.7bc3752a.chunk.js"
   },
   {
     "revision": "50a62633953918f957e8",
