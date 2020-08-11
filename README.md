@@ -1,68 +1,58 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Simple ReactJS Instagram Caption Line Breaker
 
-## Available Scripts
+## What is in the Repo
 
-In the project directory, you can run:
+This Project is a Simple ReactJS Application which demonstrates the following
 
-### `npm start`
+1. Creating Functional Components in React
+2. Using Bootstrap along with React
+3. Using of React hooks
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Use of the App
 
-### `npm test`
+Your caption with line breaks is easier to read and understand. The paragraphs in instagram are broken by default and this problem should be fixed immediately. This tool uses "secret symbol" to avoid unexpected broken line breaks in your caption.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+**_This project is part of my React cardio session. It can be used to build bigger projects_**
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Live Application URL
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+#### https://ekamid.github.io/instagram-caption-line-breaker/
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Prerequisites
 
-### `npm run eject`
+### Install Node JS
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Refer to https://nodejs.org/en/ to install nodejs
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Install create-react-app
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Install create-react-app npm package globally. This will help to easily run the project and also build the source files easily. Use the following command to install create-react-app
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```bash
+npm install -g create-react-app
+```
 
-## Learn More
+## Cloning and Running the Application in local
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Clone the project into local
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+git clone https://github.com/ekamid/instagram-caption-line-breaker.git
+cd instagram-caption-line-breaker
+```
 
-### Code Splitting
+Install all the npm packages. Go into the project folder and type the following command to install all npm packages
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+```bash
+npm install
+```
 
-### Analyzing the Bundle Size
+In order to run the application Type the following command
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+```bash
+npm start
+```
 
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+The Application Runs on **localhost:3000**
